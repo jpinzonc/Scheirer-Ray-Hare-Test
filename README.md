@@ -21,3 +21,5 @@ For more information on this parametric test visit:
 https://www.youtube.com/watch?v=N729aMGIUOk
 
 http://rcompanion.org/handbook/F_14.html
+
+The code is on a Jupyter Lab Notebook. 
