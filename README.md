@@ -1,4 +1,4 @@
-# Scheirer-Ray-Hare-Test
+# Scheirer-Ray-Hare-Test using Python 
 
 Python script to perform the Scheirer-Ray-Hare Test
 
